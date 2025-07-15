@@ -24,7 +24,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>11</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.cloudstack</groupId>
@@ -178,7 +178,7 @@
         <cs.servicemix.version>3.4.4_1</cs.servicemix.version>
         <cs.servlet.version>4.0.1</cs.servlet.version>
         <cs.tink.version>1.7.0</cs.tink.version>
-        <cs.tomcat-embed-core.version>10.0.22</cs.tomcat-embed-core.version>
+        <cs.tomcat-embed-core.version>10.1.43</cs.tomcat-embed-core.version>
         <cs.trilead.version>build-217-jenkins-27</cs.trilead.version>
         <cs.vmware.api.version>8.0</cs.vmware.api.version>
         <cs.winrm4j.version>0.5.0</cs.winrm4j.version>
@@ -941,7 +941,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -954,7 +954,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -967,7 +967,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
