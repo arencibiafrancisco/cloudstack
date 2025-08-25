@@ -24,7 +24,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>11</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.cloudstack</groupId>
@@ -154,7 +154,7 @@
         <cs.jaxb.version>2.3.0</cs.jaxb.version>
         <cs.jaxb.impl.version>2.3.9</cs.jaxb.impl.version>
         <cs.jakarta.xml.bind.version>2.3.3</cs.jakarta.xml.bind.version>
-        <cs.jaxws.version>2.3.7</cs.jaxws.version>
+        <cs.jaxws.version>4.0.0</cs.jaxws.version>
         <cs.jersey-client.version>2.26</cs.jersey-client.version>
         <cs.jetty.version>9.4.51.v20230217</cs.jetty.version>
         <cs.jetty-maven-plugin.version>9.4.27.v20200227</cs.jetty-maven-plugin.version>
@@ -941,7 +941,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -954,7 +954,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -967,7 +967,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
